@@ -4,6 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## 我就爛
+## 汐宮栞w
 
 ![image](/image/Minerva.png)
