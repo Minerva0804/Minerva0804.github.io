@@ -21,7 +21,6 @@ navigation:
   - {file: "README.md", icon: address-card}
   - {file: "IMO.md", icon: plus}
   - {file: "Note.md", icon: plus}
-  - {file: "study.md", icon: plus}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
