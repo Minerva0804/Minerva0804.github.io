@@ -6,4 +6,4 @@ layout: page
 
 ## 我就爛
 
-![image](/汐宮栞.png)
+![image](/image/minerva.png)
