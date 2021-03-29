@@ -20,6 +20,7 @@ navigation:
   - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
   - {file: "IMO.md", icon: plus}
+  - {file: "Note.md", icon: plus}
   - {file: "study.md", icon: plus}
 
 external:                  # see http://fontawesome.com/icons
