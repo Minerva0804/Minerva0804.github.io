@@ -8,7 +8,7 @@ layout: page
 
 大一筆記：
 
-+  [Linear Algebra II][Linear Algebra II-pdf]
++  $\sqrt{2}$[Linear Algebra II][Linear Algebra II-pdf]
 +  [Algebra I][Algebra I-pdf]
 +  [Algebra II][Algebra II-pdf]
 
