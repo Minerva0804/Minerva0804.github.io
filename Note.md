@@ -8,7 +8,8 @@ layout: page
 
 大一筆記：
 
-+  Linear Algebra II][Linear Algebra II-pdf]
++  [Linear Algebra II][Linear Algebra II-pdf]
+$$\otimes$$
 +  [Algebra I][Algebra I-pdf]
 +  [Algebra II][Algebra II-pdf]
 
