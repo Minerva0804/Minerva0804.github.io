@@ -12,6 +12,7 @@ layout: page
 +  [Algebra I][Algebra I-pdf]
 +  [Algebra II][Algebra II-pdf]
 +  [Going up and going down][Going up and going down-pdf]
++  [Going up and going down][Going up and going down-pdf]
 
 
 
