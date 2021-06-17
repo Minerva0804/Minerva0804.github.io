@@ -18,4 +18,4 @@ layout: page
 [Linear Algebra II-pdf]:/Note-1/Minerva notes Linear Algebra II.pdf
 [Algebra I-pdf]:/Note-1/Minerva notes Algebra I.pdf
 [Algebra II-pdf]:/Note-1/Minerva notes Algebra II.pdf
-[Going up and going down-pdf]:/Note-1/Minerva notes Algebra II.pdf
+[Going up and going down-pdf]:/Note-1/Going up and going down Theorem.pdf
