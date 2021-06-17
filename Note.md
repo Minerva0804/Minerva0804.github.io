@@ -12,8 +12,6 @@ layout: page
 +  [Algebra I][Algebra I-pdf]
 +  [Algebra II][Algebra II-pdf]
 +  [Going up and going down][Going up and going down-pdf]
-+  [Going up and going down][Going up and going down-pdf]
-
 
 
 [Linear Algebra II-pdf]:/Note-1/Minerva notes Linear Algebra II.pdf
