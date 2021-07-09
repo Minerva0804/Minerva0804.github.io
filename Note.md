@@ -8,10 +8,10 @@ layout: page
 
 大一筆記：
 
-+  [Linear Algebra II][Linear Algebra II-pdf]\hfill(complete)
-+  [Algebra I][Algebra I-pdf] (complete)
-+  [Algebra II][Algebra II-pdf] (updating)
-+  [Going up and going down][Going up and going down-pdf] (complete)
++  [Linear Algebra II][Linear Algebra II-pdf]
++  [Algebra I][Algebra I-pdf]
++  [Algebra II][Algebra II-pdf]
++  [Going up and going down][Going up and going down-pdf]
 
 
 [Linear Algebra II-pdf]:/Note-1/Minerva notes Linear Algebra II.pdf
