@@ -1,5 +1,5 @@
 ---
-title: "pipi"
+title: "Book"
 permalink: "/pipi/"
 layout: page
 ---
