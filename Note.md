@@ -13,6 +13,7 @@ layout: page
 +  [Algebra II][Algebra II-pdf]
 +  [Going up and going down][Going up and going down-pdf]
 +  [Complex Analytic I][Complex Analytic I-pdf]
++  [A]
 
 [Linear Algebra II-pdf]:/Note-1/Minerva notes Linear Algebra II.pdf
 [Algebra I-pdf]:/Note-1/Minerva notes Algebra I.pdf
