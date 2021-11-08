@@ -18,4 +18,4 @@ layout: page
 [Algebra I-pdf]:/Note-1/Minerva notes Algebra I.pdf
 [Algebra II-pdf]:/Note-1/Minerva notes Algebra II.pdf
 [Going up and going down-pdf]:/Note-1/Going up and going down Theorem.pdf
-[Complex Analytic I-pdf]:/Note-1/Untro368.github.io/Note-1/Minerva notes Complex analytic I.pdf
+[Complex Analytic I-pdf]:/Note-1/Minerva notes Complex analytic I.pdf
