@@ -13,6 +13,7 @@ layout: page
 +  [Coherent sheaf][Coherent sheaf]
 +  [Divisors][Divisors]
 +  [Projective morphism][Projective morphism]
++  [Toric variety][Toric variety]
 
 [Hartshorne-Ch1]:/book/Hartshorne Algebraic geometry-Ch1.pdf
 [Hartshorne-Ch2]:/book/Hartshorne Algebraic geometry-Ch2.pdf
@@ -21,3 +22,4 @@ layout: page
 [Coherent sheaf]:/book/Coherent-sheaf.pdf
 [Divisors]:/book/Divisors.pdf
 [Projective morphism]:/book/Projective-morphisms.pdf
+[Toric variety]:/book/Introduction to toric varieties by William Fulton (z-lib.org).pdf
