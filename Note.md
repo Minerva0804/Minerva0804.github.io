@@ -6,7 +6,7 @@ layout: page
 
 ## 這裡是放Note的地方
 
-大一筆記：
+大一大二筆記：
 
 +  [Linear Algebra II][Linear Algebra II-pdf]
 +  [Algebra I][Algebra I-pdf]
