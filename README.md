@@ -4,4 +4,4 @@ permalink: "/about/"
 layout: page
 ---
 
-## 404 NOt found
+## 404 Not found
